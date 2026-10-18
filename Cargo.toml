@@ -5,6 +5,7 @@ edition = "2024"
 description = "Zero-copy, reference-like projections of data owned by an Arc"
 readme = "README.md"
 license = "Apache-2.0"
+repository = "https://github.com/occasionallydavid/arc-ref-rs"
 keywords = ["arc", "projection", "self-referential", "zero-copy"]
 categories = ["data-structures", "memory-management", "rust-patterns"]
 
