@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 description = "Zero-copy, reference-like projections of data owned by an Arc"
 readme = "README.md"
-license = "MIT OR Apache-2.0"
+license = "Apache-2.0"
 keywords = ["arc", "projection", "self-referential", "zero-copy"]
 categories = ["data-structures", "memory-management", "rust-patterns"]
 
